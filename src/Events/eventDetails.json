@@ -1,0 +1,36 @@
+[
+  {
+    "name": "saurabh",
+    "Img": "../assets/Today1.png",
+    "Date": "12-03-2022",
+    "Time": "Fri,07:30–01:00 am",
+    "Location": "Koramangaka",
+    "age": 22
+  },
+  {
+    "name": "saurabh",
+    "Img": "../assets/todayEvent1.png",
+    "Date": "13-03-2022",
+    "Time": "Fri,07:30–02:00 am",
+    "Location": "New BEL Road",
+    "age": 22
+  },
+
+  {
+    "name": "saurabh",
+    "Img": "../assets/Today1.png",
+    "Date": "14-03-2022",
+    "Time": "Fri,07:30–03:00 am",
+    "Location": "Koramangaka",
+    "age": 22
+  },
+
+  {
+    "name": "saurabh",
+    "Img": "../assets/todayEvent1.png",
+    "Date": "15-03-2022",
+    "Time": "Fri,07:30–04:00 am",
+    "Location": "New BEL Road",
+    "age": 22
+  }
+]
