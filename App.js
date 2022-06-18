@@ -9,8 +9,8 @@ const App = () => {
   return (
     <SafeAreaView style={{flex: 1, backgroundColor: '#FFFFFF'}}>
       <NavigationContainer>
-        {/* <AuthNavigation /> */}
-        <MainNavigator />
+        <AuthNavigation />
+        {/* <MainNavigator /> */}
       </NavigationContainer>
     </SafeAreaView>
   );
