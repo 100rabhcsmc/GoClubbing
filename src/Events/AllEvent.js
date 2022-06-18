@@ -13,7 +13,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import SimpleLineIcons from 'react-native-vector-icons/SimpleLineIcons';
 import Eventdata from './eventDetails.json';
 
-const AllEvent = () => {
+const AllEvent = ({navigation}) => {
   console.log('show me all event', Eventdata);
 
   const renderItem = ({item}) => {
@@ -70,7 +70,7 @@ const AllEvent = () => {
                   </Text>
                 </View>
                 <TouchableOpacity
-                  onPress={() => console.log('Booked')}
+                  onPress={() => navigation.navigate('TodayEvt')}
                   style={{
                     marginTop: 5,
                     backgroundColor: '#E8505B',
